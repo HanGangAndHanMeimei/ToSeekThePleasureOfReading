@@ -3,7 +3,11 @@
 ####说明：该仓库为个人阅读的部分笔记和总结，会持续更新
 -------
 #####主要书目
-`1`  [番茄工作法图解](https://book.douban.com/subject/5916234/)
+`001`  [番茄工作法图解](https://book.douban.com/subject/5916234/)
+
+`002`  [如何阅读一本书](https://book.douban.com/subject/1013208/)
+
+`003` [工作前5年，决定你一生的财富](https://book.douban.com/subject/26590267/)
 
 
 
